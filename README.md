@@ -212,6 +212,7 @@ END
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="1441" height="651" alt="image" src="https://github.com/user-attachments/assets/1e30045b-4a53-4e42-a175-5003d13665e0" />
 
 
 ## RESULT
