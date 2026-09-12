@@ -67,6 +67,7 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="990" height="644" alt="image" src="https://github.com/user-attachments/assets/df09eb4a-d9f3-4cff-ab02-b443374791dc" />
 
 ## 2. SUBTRACTION
 
@@ -119,6 +120,7 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="1099" height="632" alt="image" src="https://github.com/user-attachments/assets/1da026da-5504-4b83-9335-68cfaa79e643" />
 
 ## 3. MULTIPLICATION
 
@@ -167,6 +169,7 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="1024" height="634" alt="image" src="https://github.com/user-attachments/assets/1b17364a-7b2a-4f1d-8b1d-afa014d83434" />
 
 ## 4. DIVISION
 
@@ -212,6 +215,7 @@ END
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="1441" height="651" alt="image" src="https://github.com/user-attachments/assets/9defd932-153c-4456-8567-e499cdeacbb4" />
 
 
 ## RESULT
